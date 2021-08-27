@@ -1,0 +1,20 @@
+{
+  "name": "Practice_Node_Babel_webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jhon-H/webpack_y_babel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jhon-H/webpack_y_babel/issues"
+  },
+  "homepage": "https://github.com/Jhon-H/webpack_y_babel#readme"
+}
